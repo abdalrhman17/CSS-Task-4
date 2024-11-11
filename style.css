@@ -1,0 +1,21 @@
+*{margin:0; padding:0;}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px
+}
+
+.images {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.images img {
+    width: 350px
+}
